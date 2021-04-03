@@ -144,40 +144,44 @@
     </div>
     <br /><br /><br /><br />
     <!-- content -->
-    <div class="container text-center">
+    <div class="container">
       <div class="row">
         <div class="col-md">
-          <i class="fas icon fa-cut"></i>
-          <br />
-          <h1>Grooming</h1>
-          <hr />
-          <ul class="text-center">
-            <li>Shampooing</li>
-            <li>Trimming</li>
-            <li>Claw Clipping</li>
-          </ul>
+          <img
+            src="http://pulpbits.net/wp-content/uploads/2014/02/Pound-Puppy-Rescue.jpg"
+            alt=""
+            class="img-fluid"
+          />
         </div>
         <div class="col-md">
-          <i class="fas icon fa-dog"></i>
-          <br />
-          <h1>Trained Staff</h1>
-          <hr />
-          <ul class="text-center">
-            <li>Certified</li>
-            <li>Over 7 years</li>
-            <li>Mobile Teams</li>
-          </ul>
+          <h1>Chartered Care</h1>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis
+            magni, animi, facere labore ipsum impedit saepe nostrum at repellat
+            qui sint, asperiores earum? Consectetur consequatur esse mollitia
+            molestias beatae sunt.
+          </p>
+          <a href="#" class="btn btn-outline-info btn-lg">MORE INFO</a>
+        </div>
+      </div>
+      <br /><br /><br />
+      <div class="row">
+        <div class="col-md">
+          <h1>Chartered Care</h1>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis
+            magni, animi, facere labore ipsum impedit saepe nostrum at repellat
+            qui sint, asperiores earum? Consectetur consequatur esse mollitia
+            molestias beatae sunt.
+          </p>
+          <a href="#" class="btn btn-outline-info btn-lg">MORE INFO</a>
         </div>
         <div class="col-md">
-          <i class="fas icon fa-headset"></i>
-          <br />
-          <h1>Support</h1>
-          <hr />
-          <ul class="text-center">
-            <li>24 / 7 Chat</li>
-            <li>In-Home</li>
-            <li>Follow Up's</li>
-          </ul>
+          <img
+            src="https://s-i.huffpost.com/gen/937654/images/o-LIFELINE-PUPPY-RESCUE-COLORADO-facebook.jpg"
+            alt=""
+            class="img-fluid"
+          />
         </div>
       </div>
     </div>
