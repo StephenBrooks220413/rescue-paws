@@ -41,7 +41,7 @@
             <br /><br />
             <a
               href="mailto:stephenbrooks714@gmail.com"
-              class="btn info-btn btn-outline-text-info btn-lg"
+              class="btn info-btn btn-outline-info btn-lg"
             >
               Learn More
             </a>
@@ -56,7 +56,7 @@
             <br /><br />
             <a
               href="mailto:stephenbrooks714@gmail.com"
-              class="btn info-btn btn-outline-text-info btn-lg"
+              class="btn info-btn btn-outline-info btn-lg"
             >
               Learn More
             </a>
@@ -72,7 +72,7 @@
             <br /><br />
             <a
               href="mailto:stephenbrooks714@gmail.com"
-              class="btn info-btn btn-outline-text-info btn-lg"
+              class="btn info-btn btn-outline-info btn-lg"
             >
               Learn More
             </a>
