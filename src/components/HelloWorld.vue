@@ -75,6 +75,13 @@ form {
     opacity: 0.4;
   }
 }
+@media(max-width: 650px) {
+ form {
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+ }
+}
 h3 {
   margin: 40px 0 0;
 }
